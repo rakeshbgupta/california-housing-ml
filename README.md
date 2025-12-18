@@ -22,3 +22,15 @@ california-housing-ml/
 ├── main.py
 ├── requirements.txt
 └── .gitignore
+
+
+## What I Learned From This Project
+
+- Implemented a complete end-to-end Machine Learning workflow in Python using VS Code and GitHub
+- Performed exploratory data analysis (EDA) using pandas and matplotlib to understand feature distributions and correlations
+- Built a baseline classification model using Logistic Regression and evaluated it using accuracy (~83%)
+- Understood the importance of proper train/test splitting and class stratification for reliable evaluation
+- Interpreted model coefficients to understand feature importance and real-world impact
+- Structured a Python ML project using reusable modules (`src/`), notebooks for EDA, and a clean entry point (`main.py`)
+- Gained practical understanding of Python concepts such as type hints, logging, custom exceptions, and the `__name__ == "__main__"` pattern
+- Learned how to version, document, and publish a working ML project to GitHub as part of a professional portfolio
